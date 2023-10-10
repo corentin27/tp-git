@@ -1,3 +1,5 @@
 # tp-git
 
-### Initiation à Git
+- git add 
+- git commit -m "Mon message de commit"
+- git push
